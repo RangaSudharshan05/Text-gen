@@ -3,6 +3,6 @@
 This repository contains different algorithms for text generation.
 
 * Markov Chain
-* LSTM
 * Transformers
+* LSTM
 * Encoder-Decoder framework using attention mechanism
